@@ -1,16 +1,5 @@
-# movie_diary
+## Movie Diary
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+That project was developed by me and 2 other colleagues. It allows searching for movies and adding them to lists such as: watched, liked, to watch etc. The app has some default lists, but it also has the option to create your own lists
+ 
+For this application we used Flutter, Firebase from Google and several packages from pub.dev, such as omdb_dart used to access a movie database.
