@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970749306034",
+    "project_id": "moviediary-39b7e",
+    "storage_bucket": "moviediary-39b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970749306034:android:edd4bff664a6ea0e5195ab",
+        "android_client_info": {
+          "package_name": "com.movie_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970749306034-vbvdek04cmo3ef3v11o7ocnnjui8pnok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5GiSGo-TcpmLDc-t8WA1b8iPvdLzLFQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970749306034-vbvdek04cmo3ef3v11o7ocnnjui8pnok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
