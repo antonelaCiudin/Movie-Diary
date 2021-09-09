@@ -1,6 +1,6 @@
 # Movie Diary
 
-![This is an image](/movie_diary_gif.gif)
+![This is an image](/movie_diary_gif.gif | width=200)
 
 ## Description
 
